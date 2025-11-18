@@ -36,6 +36,20 @@ ____________
 ---
 [![](https://visitcount.itsvg.in/api?id=effataratauhida&icon=0&color=0)](https://visitcount.itsvg.in)
 
+_____
+
+## Pinned Repository:
+
+## PlateShare
+
+PlateShare is a web application that allows users to donate and request leftover food efficiently. The platform connects donors with people in need, making food sharing simple and effective. 
+
+**Technology stack:** React.js, MongoDB, Firebase, React Router
+
+**Live Link:**   [Click here](https://plateshare-26a35.web.app/)
+
+
+
 
 
 
