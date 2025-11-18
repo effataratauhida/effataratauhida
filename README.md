@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/HkCn3xft/Effat-Ara-Tauhida.png" alt="Banner" width="100%">
+<img src="https://i.postimg.cc/HkCn3xft/Effat-Ara-Tauhida.png" alt="Banner" height="500px" width="100%">
 
 
 
@@ -36,17 +36,39 @@ ____________
 ---
 [![](https://visitcount.itsvg.in/api?id=effataratauhida&icon=0&color=0)](https://visitcount.itsvg.in)
 
-_____
 
 ## Pinned Repository:
 
-## PlateShare
+## PlateShare– Donate. Connect. Care.
 
 PlateShare is a web application that allows users to donate and request leftover food efficiently. The platform connects donors with people in need, making food sharing simple and effective. 
 
 **Technology stack:** React.js, MongoDB, Firebase, React Router
 
 **Live Link:**   [Click here](https://plateshare-26a35.web.app/)
+
+________________
+
+
+## WarmPaws– Pet Care in Winter
+
+A responsive React web application designed to help pet owners find and book professional pet care services during the winter season. The platform provides a clean, modern interface with smooth animations, login protection for viewing detailed service information, and helpful winter care tips for pets.
+
+
+**Technology stack:** React.js, MongoDB, Firebase, React Router DOM, Tailwind CSS
+
+**Live Link:**   [Click here](https://plateshare-26a35.web.app/)
+
+__________________
+
+
+## AppRadar
+
+This app allows users to browse, search, and install trending applications from the market. Users can view app details, ratings, reviews, and download stats. Installed apps can be managed easily with uninstall options.
+
+**Technology stack:** React, React Router, Tailwind CSS, Recharts, LocalStorage
+
+**Live Link:**   [Click here](https://appradar-a08.netlify.app/)
 
 
 
